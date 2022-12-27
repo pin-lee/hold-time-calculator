@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Hold Time Calculator</title>
+    </head>
+    <body>
+        {% if book %}
+
+        <h1>{{ book }}</h1> <br>
+        <h2>by {{ author }}</h2> <br>
+        <img src="{{ image }}" alt="Cover photo from Goodreads. All rights to owner.">
+        <h2>Time Predictions:</h2> <br>
+        <b>It is likely to take approximately {{ min_wait }} days (if they really like the book), but at most {{ max_wait }} days.</b>
+
+        {% else %}
+        <h1>Not sure how you got here.</h1>
+        {% endif %}
+    </body>
+</html>
