@@ -8,5 +8,3 @@ Licensed under [Apache 2.0.](https://www.apache.org/licenses/LICENSE-2.0)
 - Powered by [Flask](https://flask.palletsprojects.com/en/2.2.x/).
 - Exposed to the internet with [ngrok](https://ngrok.com/).
 - Data sourced from [How Long to Read](https://howlongtoread.com/).
-- Developed on [Gentoo Linux](https://www.gentoo.org/) and [Microsoft Windows 10](http://toastytech.com/evil/).
-- Hindered by the [REDACTED] County Library System's policy of data privacy.
