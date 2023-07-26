@@ -1,6 +1,6 @@
 # Hold Time Calculator
 A web-app that calculates the time it will take for you to get your book. \
-Written by Brayden/Rowan Lee for a local technology competition. \
+Written by Lee for a local technology competition. \
 Licensed under [Apache 2.0.](https://www.apache.org/licenses/LICENSE-2.0)
 
 # Technologies Used and Credits:
